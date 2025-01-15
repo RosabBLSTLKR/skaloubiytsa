@@ -1,0 +1,16 @@
+{
+  "name": "Bolid_Skaloubiytsa",
+  "version": "1.0.2",
+  "description": "The fusion of the three Tech Ships in one code",
+  "main": "bot.js",
+  "author": "Rosab_BLSTLKR",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "common-tags": "^1.8.0",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.12.1",
+    "winston": "^3.2.1"
+  }
+}
